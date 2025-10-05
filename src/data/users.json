@@ -1,0 +1,12 @@
+{
+  "petervertin5051@gmail.com": {
+    "email": "petervertin5051@gmail.com",
+    "password": {
+      "salt": "6b6fee5cdd13259289576b8cfb14fcbc49b17ddf595aac21a0825be2e16d156c",
+      "hash": "1b95db20380a0b64aa58324a44bc2ff5b89f99caa4be11f253b63a8f2bb22e2c",
+      "iterations": 120000
+    },
+    "created_at": 1759311168,
+    "profile": {}
+  }
+}
